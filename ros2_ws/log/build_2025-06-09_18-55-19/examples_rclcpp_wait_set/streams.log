@@ -1,0 +1,67 @@
+[0.034s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/wait_set -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_wait_set
+[0.225s] -- The C compiler identification is GNU 11.4.0
+[0.367s] -- The CXX compiler identification is GNU 11.4.0
+[0.395s] -- Detecting C compiler ABI info
+[0.613s] -- Detecting C compiler ABI info - done
+[0.629s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.630s] -- Detecting C compile features
+[0.633s] -- Detecting C compile features - done
+[0.638s] -- Detecting CXX compiler ABI info
+[0.896s] -- Detecting CXX compiler ABI info - done
+[0.914s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.915s] -- Detecting CXX compile features
+[0.916s] -- Detecting CXX compile features - done
+[0.922s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.565s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[2.989s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.056s] -- Found example_interfaces: 0.9.3 (/opt/ros/humble/share/example_interfaces/cmake)
+[3.154s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.164s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.184s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.209s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.255s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.396s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[3.585s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.592s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.944s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.065s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.197s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.228s] -- Looking for pthread.h
+[4.574s] -- Looking for pthread.h - found
+[4.577s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.952s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.957s] -- Found Threads: TRUE  
+[5.152s] -- Found rclcpp_components: 16.0.12 (/opt/ros/humble/share/rclcpp_components/cmake)
+[5.295s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.979s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.990s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.994s] -- Configured cppcheck include dirs: /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/wait_set/include
+[5.996s] -- Configured cppcheck exclude dirs and/or files: 
+[6.006s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[6.006s] -- Configured cpplint exclude dirs and/or files: 
+[6.008s] -- Added test 'lint_cmake' to check CMake code style
+[6.017s] -- Added test 'uncrustify' to check C / C++ code style
+[6.018s] -- Configured uncrustify additional arguments: 
+[6.023s] -- Added test 'xmllint' to check XML markup files
+[6.027s] -- Configuring done
+[6.226s] -- Generating done
+[6.278s] -- Build files have been written to: /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set
+[6.312s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/wait_set -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_wait_set
+[6.315s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set -- -j2 -l2
+[6.458s] [  4%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
+[17.383s] [  8%] [32m[1mLinking CXX shared library libtalker.so[0m
+[17.858s] [  8%] Built target talker
+[17.923s] [ 12%] [32mBuilding CXX object CMakeFiles/wait_set_talker.dir/rclcpp_components/node_main_wait_set_talker.cpp.o[0m
+[25.470s] [ 16%] [32m[1mLinking CXX executable wait_set_talker[0m
+[25.759s] [ 16%] Built target wait_set_talker
+[25.821s] [ 20%] [32mBuilding CXX object CMakeFiles/listener.dir/src/listener.cpp.o[0m
+[48.685s] [ 25%] [32m[1mLinking CXX shared library liblistener.so[0m
+[49.672s] [ 25%] Built target listener
+[49.736s] [ 29%] [32mBuilding CXX object CMakeFiles/wait_set_listener.dir/rclcpp_components/node_main_wait_set_listener.cpp.o[0m
+[58.310s] [ 33%] [32m[1mLinking CXX executable wait_set_listener[0m
+[58.656s] [ 33%] Built target wait_set_listener
+[58.737s] [ 37%] [32mBuilding CXX object CMakeFiles/wait_set.dir/src/wait_set.cpp.o[0m
+[63.773s] gmake[2]: *** [CMakeFiles/wait_set.dir/build.make:76: CMakeFiles/wait_set.dir/src/wait_set.cpp.o] Interrupt
+[63.773s] gmake[1]: *** [CMakeFiles/Makefile2:263: CMakeFiles/wait_set.dir/all] Interrupt
+[63.773s] gmake: *** [Makefile:146: all] Interrupt
+[63.835s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set' returned '-2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_wait_set -- -j2 -l2

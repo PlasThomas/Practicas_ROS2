@@ -1,0 +1,23 @@
+[0.766s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data
+[1.090s] running develop
+[1.309s] running egg_info
+[1.310s] creating launch_testing_examples.egg-info
+[1.310s] writing launch_testing_examples.egg-info/PKG-INFO
+[1.311s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[1.311s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[1.311s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[1.312s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[1.313s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.316s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.320s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[1.323s] running build_ext
+[1.323s] Creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[1.324s] 
+[1.325s] Installed /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples
+[1.325s] running symlink_data
+[1.326s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/share/ament_index
+[1.326s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[1.326s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[1.327s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/resource/launch_testing_examples -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[1.327s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/package.xml -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[1.375s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data

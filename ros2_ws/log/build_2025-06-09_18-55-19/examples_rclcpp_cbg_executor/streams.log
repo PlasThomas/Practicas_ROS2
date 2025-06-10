@@ -1,0 +1,40 @@
+[0.046s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor -- -j2 -l2
+[0.239s] [ 10%] [32mBuilding CXX object CMakeFiles/ping.dir/src/ping.cpp.o[0m
+[0.275s] [ 20%] [32mBuilding CXX object CMakeFiles/pong.dir/src/pong.cpp.o[0m
+[17.946s] [ 30%] [32mBuilding CXX object CMakeFiles/ping.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[18.707s] [ 40%] [32mBuilding CXX object CMakeFiles/pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[54.935s] [ 50%] [32m[1mLinking CXX executable ping[0m
+[55.695s] [ 60%] [32m[1mLinking CXX executable pong[0m
+[56.313s] [ 60%] Built target ping
+[56.767s] [ 60%] Built target pong
+[56.830s] [ 70%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/ping_pong.cpp.o[0m
+[64.984s] [ 80%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/ping_node.cpp.o[0m
+[92.001s] [ 90%] [32mBuilding CXX object CMakeFiles/ping_pong.dir/src/examples_rclcpp_cbg_executor/pong_node.cpp.o[0m
+[113.180s] [100%] [32m[1mLinking CXX executable ping_pong[0m
+[114.458s] [100%] Built target ping_pong
+[114.494s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor -- -j2 -l2
+[114.495s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor
+[114.519s] -- Install configuration: ""
+[114.523s] -- Execute custom install script
+[114.524s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping
+[114.559s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong
+[114.592s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong
+[114.626s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/ping_node.hpp
+[114.654s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/pong_node.hpp
+[114.678s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_cbg_executor
+[114.733s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_cbg_executor
+[114.778s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.sh
+[114.806s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.dsv
+[114.879s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.sh
+[114.934s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.dsv
+[114.998s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.bash
+[115.082s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.sh
+[115.156s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.zsh
+[115.202s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.dsv
+[115.236s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.dsv
+[115.261s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/packages/examples_rclcpp_cbg_executor
+[115.287s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/ament_cmake_export_dependencies-extras.cmake
+[115.312s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig.cmake
+[115.340s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig-version.cmake
+[115.365s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.xml
+[115.394s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor

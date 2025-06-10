@@ -1,0 +1,55 @@
+[0.044s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/executors/cbg_executor -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor
+[0.518s] -- The C compiler identification is GNU 11.4.0
+[0.883s] -- The CXX compiler identification is GNU 11.4.0
+[0.923s] -- Detecting C compiler ABI info
+[1.157s] -- Detecting C compiler ABI info - done
+[1.170s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.175s] -- Detecting C compile features
+[1.178s] -- Detecting C compile features - done
+[1.190s] -- Detecting CXX compiler ABI info
+[1.434s] -- Detecting CXX compiler ABI info - done
+[1.451s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.451s] -- Detecting CXX compile features
+[1.453s] -- Detecting CXX compile features - done
+[1.474s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.781s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[3.142s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.257s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[3.431s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.457s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.491s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.544s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.610s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.818s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.832s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.205s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.300s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.412s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.460s] -- Looking for pthread.h
+[4.728s] -- Looking for pthread.h - found
+[4.732s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.987s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.990s] -- Found Threads: TRUE  
+[5.214s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.601s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.607s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.607s] -- Configured cppcheck include dirs: /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/executors/cbg_executor/include
+[5.607s] -- Configured cppcheck exclude dirs and/or files: 
+[5.612s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[5.613s] -- Configured cpplint exclude dirs and/or files: 
+[5.615s] -- Added test 'lint_cmake' to check CMake code style
+[5.621s] -- Added test 'uncrustify' to check C / C++ code style
+[5.621s] -- Configured uncrustify additional arguments: 
+[5.623s] -- Added test 'xmllint' to check XML markup files
+[5.630s] -- Configuring done
+[5.676s] -- Generating done
+[5.696s] -- Build files have been written to: /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor
+[5.721s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/executors/cbg_executor -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor
+[5.725s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_cbg_executor -- -j2 -l2
+[5.915s] [ 10%] [32mBuilding CXX object CMakeFiles/ping.dir/src/ping.cpp.o[0m
+[5.931s] [ 20%] [32mBuilding CXX object CMakeFiles/pong.dir/src/pong.cpp.o[0m
+[7.761s] gmake[2]: *** [CMakeFiles/ping.dir/build.make:76: CMakeFiles/ping.dir/src/ping.cpp.o] Interrupt
+[7.761s] gmake[1]: *** [CMakeFiles/Makefile2:141: CMakeFiles/ping.dir/all] Interrupt
+[7.769s] gmake[2]: *** [CMakeFiles/pong.dir/build.make:76: CMakeFiles/pong.dir/src/pong.cpp.o] Interrupt
+[7.778s] gmake[1]: *** [CMakeFiles/Makefile2:167: CMakeFiles/pong.dir/all] Interrupt
+[7.779s] gmake: *** [Makefile:146: all] Interrupt

@@ -1,0 +1,63 @@
+[0.018s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j2 -l2
+[0.135s] [35m[1mConsolidate compiler generated dependencies of target subscriber_member_function[0m
+[0.135s] [35m[1mConsolidate compiler generated dependencies of target subscriber_lambda[0m
+[0.172s] [  8%] Built target subscriber_member_function
+[0.181s] [ 16%] Built target subscriber_lambda
+[0.220s] [35m[1mConsolidate compiler generated dependencies of target subscriber_member_function_with_topic_statistics[0m
+[0.230s] [35m[1mConsolidate compiler generated dependencies of target subscriber_member_function_with_type_adapter[0m
+[0.253s] [ 25%] Built target subscriber_member_function_with_topic_statistics
+[0.276s] [ 33%] Built target subscriber_member_function_with_type_adapter
+[0.282s] [35m[1mConsolidate compiler generated dependencies of target subscriber_member_function_with_unique_network_flow_endpoints[0m
+[0.332s] [ 41%] Built target subscriber_member_function_with_unique_network_flow_endpoints
+[0.333s] [ 45%] [32mBuilding CXX object CMakeFiles/subscriber_not_composable.dir/not_composable.cpp.o[0m
+[0.405s] [ 50%] [32mBuilding CXX object CMakeFiles/subscriber_content_filtering.dir/content_filtering.cpp.o[0m
+[32.822s] [ 54%] [32m[1mLinking CXX executable subscriber_content_filtering[0m
+[33.219s] [ 58%] [32m[1mLinking CXX executable subscriber_not_composable[0m
+[34.086s] [ 58%] Built target subscriber_content_filtering
+[34.184s] [ 58%] Built target subscriber_not_composable
+[34.239s] [ 62%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/wait_set_subscriber.cpp.o[0m
+[46.238s] [ 66%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/static_wait_set_subscriber.cpp.o[0m
+[56.877s] [ 70%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber_library.dir/time_triggered_wait_set_subscriber.cpp.o[0m
+[68.078s] [ 75%] [32m[1mLinking CXX shared library libwait_set_subscriber_library.so[0m
+[69.092s] [ 75%] Built target wait_set_subscriber_library
+[69.128s] [ 79%] [32mBuilding CXX object CMakeFiles/wait_set_subscriber.dir/rclcpp_components/node_main_wait_set_subscriber.cpp.o[0m
+[73.161s] [ 83%] [32m[1mLinking CXX executable wait_set_subscriber[0m
+[73.340s] [ 83%] Built target wait_set_subscriber
+[73.373s] [ 87%] [32mBuilding CXX object CMakeFiles/static_wait_set_subscriber.dir/rclcpp_components/node_main_static_wait_set_subscriber.cpp.o[0m
+[77.570s] [ 91%] [32m[1mLinking CXX executable static_wait_set_subscriber[0m
+[77.950s] [ 91%] Built target static_wait_set_subscriber
+[78.007s] [ 95%] [32mBuilding CXX object CMakeFiles/time_triggered_wait_set_subscriber.dir/rclcpp_components/node_main_time_triggered_wait_set_subscriber.cpp.o[0m
+[82.723s] [100%] [32m[1mLinking CXX executable time_triggered_wait_set_subscriber[0m
+[83.029s] [100%] Built target time_triggered_wait_set_subscriber
+[83.047s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j2 -l2
+[83.054s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber
+[83.070s] -- Install configuration: ""
+[83.072s] -- Execute custom install script
+[83.074s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/wait_set_subscriber
+[83.090s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/static_wait_set_subscriber
+[83.105s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/time_triggered_wait_set_subscriber
+[83.131s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/libwait_set_subscriber_library.so
+[83.148s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_lambda
+[83.160s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function
+[83.173s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function_with_topic_statistics
+[83.185s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function_with_type_adapter
+[83.199s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function_with_unique_network_flow_endpoints
+[83.210s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_not_composable
+[83.224s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_content_filtering
+[83.238s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_subscriber
+[83.253s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_subscriber
+[83.268s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/ament_prefix_path.sh
+[83.282s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/ament_prefix_path.dsv
+[83.295s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/path.sh
+[83.313s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/path.dsv
+[83.335s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.bash
+[83.348s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.sh
+[83.366s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.zsh
+[83.380s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.dsv
+[83.397s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/package.dsv
+[83.413s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/packages/examples_rclcpp_minimal_subscriber
+[83.431s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_minimal_subscriber
+[83.453s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/cmake/examples_rclcpp_minimal_subscriberConfig.cmake
+[83.480s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/cmake/examples_rclcpp_minimal_subscriberConfig-version.cmake
+[83.505s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/package.xml
+[83.525s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_subscriber

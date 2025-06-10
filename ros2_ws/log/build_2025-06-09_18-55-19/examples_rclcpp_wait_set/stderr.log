@@ -1,0 +1,3 @@
+gmake[2]: *** [CMakeFiles/wait_set.dir/build.make:76: CMakeFiles/wait_set.dir/src/wait_set.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:263: CMakeFiles/wait_set.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

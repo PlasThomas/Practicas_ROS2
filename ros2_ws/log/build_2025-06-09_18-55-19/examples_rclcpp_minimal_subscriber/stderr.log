@@ -1,0 +1,3 @@
+gmake[2]: *** [CMakeFiles/subscriber_not_composable.dir/build.make:76: CMakeFiles/subscriber_not_composable.dir/not_composable.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:287: CMakeFiles/subscriber_not_composable.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

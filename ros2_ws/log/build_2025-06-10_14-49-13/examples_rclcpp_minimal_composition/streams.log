@@ -1,0 +1,35 @@
+[0.020s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition -- -j2 -l2
+[0.104s] [35m[1mConsolidate compiler generated dependencies of target composition_nodes[0m
+[0.140s] [ 33%] Built target composition_nodes
+[0.174s] [35m[1mConsolidate compiler generated dependencies of target composition_publisher[0m
+[0.178s] [35m[1mConsolidate compiler generated dependencies of target composition_subscriber[0m
+[0.212s] [ 55%] Built target composition_subscriber
+[0.214s] [ 77%] Built target composition_publisher
+[0.235s] [35m[1mConsolidate compiler generated dependencies of target composition_composed[0m
+[0.268s] [100%] Built target composition_composed
+[0.290s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition -- -j2 -l2
+[0.296s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition
+[0.310s] -- Install configuration: ""
+[0.312s] -- Execute custom install script
+[0.313s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.sh
+[0.316s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.dsv
+[0.320s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so
+[0.320s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher
+[0.321s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber
+[0.321s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed
+[0.324s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_composition
+[0.325s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_composition
+[0.325s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.sh
+[0.327s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.dsv
+[0.331s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.sh
+[0.331s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.dsv
+[0.331s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.bash
+[0.331s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.sh
+[0.332s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.zsh
+[0.333s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.dsv
+[0.333s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.dsv
+[0.358s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/packages/examples_rclcpp_minimal_composition
+[0.362s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig.cmake
+[0.363s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig-version.cmake
+[0.364s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.xml
+[0.370s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_composition

@@ -1,0 +1,24 @@
+[0.036s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client -- -j2 -l2
+[0.111s] [35m[1mConsolidate compiler generated dependencies of target client_main[0m
+[0.140s] [100%] Built target client_main
+[0.163s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client -- -j2 -l2
+[0.173s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client
+[0.184s] -- Install configuration: ""
+[0.186s] -- Execute custom install script
+[0.187s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/lib/examples_rclcpp_minimal_client/client_main
+[0.191s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_client
+[0.191s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_client
+[0.191s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.sh
+[0.193s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/ament_prefix_path.dsv
+[0.193s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.sh
+[0.193s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/environment/path.dsv
+[0.194s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.bash
+[0.194s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.sh
+[0.195s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.zsh
+[0.195s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/local_setup.dsv
+[0.195s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.dsv
+[0.211s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_client
+[0.212s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig.cmake
+[0.217s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/cmake/examples_rclcpp_minimal_clientConfig-version.cmake
+[0.217s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_minimal_client/share/examples_rclcpp_minimal_client/package.xml
+[0.221s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_minimal_client

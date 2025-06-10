@@ -1,0 +1,24 @@
+[0.017s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j2 -l2
+[0.138s] [35m[1mConsolidate compiler generated dependencies of target multithreaded_executor[0m
+[0.194s] [100%] Built target multithreaded_executor
+[0.223s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j2 -l2
+[0.231s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[0.253s] -- Install configuration: ""
+[0.254s] -- Execute custom install script
+[0.258s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/lib/examples_rclcpp_multithreaded_executor/multithreaded_executor
+[0.261s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_multithreaded_executor
+[0.264s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_multithreaded_executor
+[0.266s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.sh
+[0.267s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.dsv
+[0.267s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.sh
+[0.267s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.dsv
+[0.268s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.bash
+[0.271s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.sh
+[0.272s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.zsh
+[0.272s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.dsv
+[0.272s] -- Symlinking: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.dsv
+[0.324s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/packages/examples_rclcpp_multithreaded_executor
+[0.324s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig.cmake
+[0.324s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig-version.cmake
+[0.327s] -- Up-to-date symlink: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.xml
+[0.330s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclcpp_multithreaded_executor

@@ -1,0 +1,25 @@
+[0.921s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps symlink_data
+[1.267s] running develop
+[1.543s] running egg_info
+[1.543s] creating examples_rclpy_minimal_service.egg-info
+[1.543s] writing examples_rclpy_minimal_service.egg-info/PKG-INFO
+[1.544s] writing dependency_links to examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[1.544s] writing entry points to examples_rclpy_minimal_service.egg-info/entry_points.txt
+[1.544s] writing requirements to examples_rclpy_minimal_service.egg-info/requires.txt
+[1.544s] writing top-level names to examples_rclpy_minimal_service.egg-info/top_level.txt
+[1.544s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.552s] reading manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.552s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.555s] running build_ext
+[1.557s] Creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples-rclpy-minimal-service.egg-link (link to .)
+[1.561s] Installing service script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[1.562s] Installing service_member_function script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[1.563s] 
+[1.563s] Installed /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service
+[1.564s] running symlink_data
+[1.564s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index
+[1.564s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index
+[1.565s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[1.565s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service/resource/examples_rclpy_minimal_service -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[1.568s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service/package.xml -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/share/examples_rclpy_minimal_service
+[1.698s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service' returned '0': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps symlink_data

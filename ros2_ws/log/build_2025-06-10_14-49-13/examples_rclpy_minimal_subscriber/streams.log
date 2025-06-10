@@ -1,0 +1,26 @@
+[0.924s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps symlink_data
+[1.275s] running develop
+[1.476s] running egg_info
+[1.477s] creating examples_rclpy_minimal_subscriber.egg-info
+[1.477s] writing examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[1.477s] writing dependency_links to examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[1.478s] writing entry points to examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[1.478s] writing requirements to examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[1.479s] writing top-level names to examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[1.479s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.483s] reading manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.483s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[1.485s] running build_ext
+[1.486s] Creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[1.487s] Installing subscriber_lambda script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.487s] Installing subscriber_member_function script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.488s] Installing subscriber_old_school script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[1.488s] 
+[1.488s] Installed /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber
+[1.488s] running symlink_data
+[1.489s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index
+[1.489s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index
+[1.491s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[1.492s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber/resource/examples_rclpy_minimal_subscriber -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[1.492s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber/package.xml -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/share/examples_rclpy_minimal_subscriber
+[1.540s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber' returned '0': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps symlink_data

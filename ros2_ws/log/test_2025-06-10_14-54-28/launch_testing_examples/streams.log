@@ -1,0 +1,28 @@
+[0.366s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/launch_testing/launch_testing_examples': AMENT_PREFIX_PATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/pytest.xml --junit-prefix=launch_testing_examples -o cache_dir=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.833s] [1m============================= test session starts ==============================[0m
+[0.834s] platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[0.838s] cachedir: /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/.pytest_cache
+[0.838s] rootdir: /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/launch_testing/launch_testing_examples
+[0.839s] plugins: ament-pep257-0.12.12, ament-lint-0.12.12, launch-testing-1.0.8, ament-flake8-0.12.12, ament-copyright-0.12.12, ament-xmllint-0.12.12, launch-testing-ros-0.19.9, anyio-4.4.0, cov-3.0.0, colcon-core-0.19.0
+[1.160s] [1mcollecting ... [0m[1m
+[1.160s] collected 9 items                                                              [0m
+[1.162s] 
+[3.423s] launch_testing_examples/check_msgs_launch_test.py [32m.[0m[32m                      [ 11%][0m
+[7.263s] launch_testing_examples/check_multiple_nodes_launch_test.py [32m.[0m[32m            [ 22%][0m
+[12.534s] launch_testing_examples/check_node_launch_test.py [32m.[0m[32m                      [ 33%][0m
+[12.543s] launch_testing_examples/hello_world_launch_test.py [32m.[0m[32m                     [ 44%][0m
+[15.738s] launch_testing_examples/record_rosbag_launch_test.py [32m.[0m[32m                   [ 55%][0m
+[16.131s] launch_testing_examples/set_param_launch_test.py [32m.[0m[32m                       [ 66%][0m
+[16.470s] test/test_copyright.py [32m.[0m[32m                                                 [ 77%][0m
+[16.589s] test/test_flake8.py [32m.[0m[33m                                                    [ 88%][0m
+[16.625s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[16.626s] 
+[16.626s] [33m=============================== warnings summary ===============================[0m
+[16.626s] test/test_flake8.py::test_flake8
+[16.626s] test/test_flake8.py::test_flake8
+[16.626s]   Warning: SelectableGroups dict interface is deprecated. Use select.
+[16.626s] 
+[16.626s] -- Docs: https://docs.pytest.org/en/stable/warnings.html
+[16.626s] - generated xml file: /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/pytest.xml -
+[16.626s] [33m======================== [32m9 passed[0m, [33m[1m2 warnings[0m[33m in 15.79s[0m[33m ========================[0m
+[16.856s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': AMENT_PREFIX_PATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/pytest.xml --junit-prefix=launch_testing_examples -o cache_dir=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/launch_testing_examples:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

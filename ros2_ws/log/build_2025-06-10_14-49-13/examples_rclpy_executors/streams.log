@@ -1,0 +1,29 @@
+[2.903s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors/build --no-deps symlink_data
+[3.666s] running develop
+[4.164s] running egg_info
+[4.164s] creating examples_rclpy_executors.egg-info
+[4.164s] writing examples_rclpy_executors.egg-info/PKG-INFO
+[4.164s] writing dependency_links to examples_rclpy_executors.egg-info/dependency_links.txt
+[4.165s] writing entry points to examples_rclpy_executors.egg-info/entry_points.txt
+[4.167s] writing requirements to examples_rclpy_executors.egg-info/requires.txt
+[4.167s] writing top-level names to examples_rclpy_executors.egg-info/top_level.txt
+[4.167s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.174s] reading manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.175s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[4.184s] running build_ext
+[4.184s] Creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[4.184s] Installing callback_group script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.185s] Installing composed script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.185s] Installing custom_callback_group script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.187s] Installing custom_executor script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.187s] Installing listener script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.187s] Installing talker script to /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[4.187s] 
+[4.187s] Installed /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors
+[4.187s] running symlink_data
+[4.187s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/share/ament_index
+[4.187s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index
+[4.191s] creating /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[4.191s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors/resource/examples_rclpy_executors -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[4.191s] symbolically linking /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors/package.xml -> /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[4.374s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/examples_rclpy_executors/build --no-deps symlink_data
