@@ -1,0 +1,73 @@
+[0.058s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub
+[0.555s] -- The C compiler identification is GNU 11.4.0
+[0.817s] -- The CXX compiler identification is GNU 11.4.0
+[0.855s] -- Detecting C compiler ABI info
+[1.107s] -- Detecting C compiler ABI info - done
+[1.122s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.131s] -- Detecting C compile features
+[1.137s] -- Detecting C compile features - done
+[1.170s] -- Detecting CXX compiler ABI info
+[1.591s] -- Detecting CXX compiler ABI info - done
+[1.611s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.614s] -- Detecting CXX compile features
+[1.615s] -- Detecting CXX compile features - done
+[1.651s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.954s] -- Found Python3: /home/robousr/.pyenv/shims/python3 (found version "3.10.12") found components: Interpreter 
+[3.454s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[3.657s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.683s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.723s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.785s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.854s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.047s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.062s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.399s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.477s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.587s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.634s] -- Looking for pthread.h
+[4.897s] -- Looking for pthread.h - found
+[4.898s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[5.124s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[5.127s] -- Found Threads: TRUE  
+[5.348s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.781s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.781s] -- Configured cppcheck include dirs: 
+[5.781s] -- Configured cppcheck exclude dirs and/or files: 
+[5.785s] -- Added test 'lint_cmake' to check CMake code style
+[5.789s] -- Added test 'uncrustify' to check C / C++ code style
+[5.790s] -- Configured uncrustify additional arguments: 
+[5.792s] -- Added test 'xmllint' to check XML markup files
+[5.800s] -- Configuring done
+[5.840s] -- Generating done
+[5.852s] -- Build files have been written to: /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub
+[5.874s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/robousr/Documents/Practicas_ROS2/ros2_ws/src/cpp_pubsub -DCMAKE_INSTALL_PREFIX=/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub
+[5.876s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub -- -j2 -l2
+[6.036s] [ 25%] [32mBuilding CXX object CMakeFiles/listener.dir/src/subscriber_member_function.cpp.o[0m
+[6.036s] [ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[23.097s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[23.925s] [ 75%] Built target talker
+[32.971s] [100%] [32m[1mLinking CXX executable listener[0m
+[33.699s] [100%] Built target listener
+[33.738s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub -- -j2 -l2
+[33.778s] Invoking command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub
+[33.803s] -- Install configuration: ""
+[33.804s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker
+[33.808s] -- Set runtime path of "/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/talker" to ""
+[33.808s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/listener
+[33.823s] -- Set runtime path of "/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/lib/cpp_pubsub/listener" to ""
+[33.824s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/package_run_dependencies/cpp_pubsub
+[33.825s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/parent_prefix_path/cpp_pubsub
+[33.826s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.sh
+[33.827s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/ament_prefix_path.dsv
+[33.829s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.sh
+[33.830s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/environment/path.dsv
+[33.831s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.bash
+[33.831s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.sh
+[33.832s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.zsh
+[33.833s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/local_setup.dsv
+[33.834s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.dsv
+[33.835s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/ament_index/resource_index/packages/cpp_pubsub
+[33.836s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig.cmake
+[33.836s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/cmake/cpp_pubsubConfig-version.cmake
+[33.837s] -- Installing: /home/robousr/Documents/Practicas_ROS2/ros2_ws/install/cpp_pubsub/share/cpp_pubsub/package.xml
+[33.845s] Invoked command in '/home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/robousr/Documents/Practicas_ROS2/ros2_ws/build/cpp_pubsub
