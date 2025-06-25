@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/turtlesim/include/**",
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/install/examples_rclcpp_cbg_executor/include/**",
+        "/home/robousr/ROS2Dev/robotis_ws/install/dynamixel_sdk_custom_interfaces/include/**",
+        "/home/robousr/ROS2Dev/robotis_ws/install/dynamixel_sdk/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/cpp_pubsub/include/**",
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/composition/minimal_composition/include/**",
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/executors/cbg_executor/include/**",
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/examples/rclcpp/wait_set/include/**",
+        "/home/robousr/Documents/Practicas_ROS2/ros2_ws/src/ros_tutorials/turtlesim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
